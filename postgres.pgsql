@@ -1104,7 +1104,7 @@ COPY public.txes (id, surrogate_id, "from", "to", data, nonce, value, gas_limit,
 --
 
 COPY public.users (email, hashed_password, created_at, token_key, token_salt, token_hashed_secret, updated_at, token_secret) FROM stdin;
-sravya@node.com	$2a$10$Fu9uxXP14SxcgE2un1yYnOaSbDna6KLZpNwGwZYVHbnMOk8u1IcPu	2020-06-10 19:44:11.416254+00				2020-06-10 19:44:11.414988+00	\N
+sravyas@node.com 123456789	2020-06-10 19:44:11.416254+00				2020-06-10 19:44:11.414988+00	\N
 \.
 
 
